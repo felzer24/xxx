@@ -4,6 +4,7 @@
       <div> Permission Page </div>
       <button @click="getLocation">Get Location</button>
       <button @click="getCameraAccess">Get Camera Access</button>
+      <div id="ownerVideo"></div>
     </q-page-container>
   </q-page>
 </template>
