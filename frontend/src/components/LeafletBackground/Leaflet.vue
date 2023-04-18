@@ -11,7 +11,8 @@ import L from "leaflet";
 export default {
     data(){
         return{
-            center: [51.51427, 7.46319]
+            center: [51.51427, 7.46319],
+            test:"hello"
         }
     },
     methods:{
